@@ -9,7 +9,7 @@ Key pressed: git<*space*>clone<*space*>git<*shift*>2github.com<*shift*>;KevinZho
 ![step5](lab4-5.png)
 
 # Step 6
-Key pressed: cd<*space*>lab4<*Enter*><*control*>p<*Enter*><*control*>p<*space*>ListExamplesTests<*Enter*>
+Key pressed: cd<*space*>lab4<*Enter*><*control*>p<*Enter*><*control*>p<*space*><*shift*>list<*shift*>examples<*Enter*>
 >using cd to get into lab4 dictionary and copy the J-unit javac and java test code from Week 4 course website " javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java","java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore". Finally run enter the "ListExmaplesTests" to test this file specifically
 ![step6](lab4-6.png)
 
@@ -23,3 +23,11 @@ Key pressed: vim<*space*><*shift*>list<*shift*>examples.java<*Enter*>/index1<*En
 Key pressed: <*up*><*up*><*up*><*up*><*Enter*><*up*><*up*><*up*><*up*><*Enter*>
 >Using <*up*> four times to get the "javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java" because this command is in the fourth search history. <*Enter*> to compile all of the java files. Then use <*up*> four times again to get "java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests" because this command is also in the fourth search history. Run the "ListExmaplesTests" to check the J-unit test.
 ![step8](lab4-8.png)
+
+# Step 9
+Key pressed: 
+1. git<*space*>add<*space*>
+2. <*shift*>list<*shift*>examples.java<*Enter*>
+3. git<*space*>status<*Enter*>
+4. git<*space*>commit<*Enter*>ichanged
+5. git<*space*>push
