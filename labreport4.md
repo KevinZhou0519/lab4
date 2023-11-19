@@ -29,5 +29,5 @@ Key pressed:
 1. git<*space*>add<*space*>
 2. <*shift*>list<*shift*>examples.java<*Enter*>
 3. git<*space*>status<*Enter*>
-4. git<*space*>commit<*Enter*>ichanged
+4. git<*space*>commit<*Enter*>changed<*ESC*><*shift*>;wq
 5. git<*space*>push
