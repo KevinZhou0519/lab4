@@ -19,3 +19,6 @@ Key pressed: vim<*space*><*shift*>list<*shift*>examples.java<*Enter*>/index1<*En
 ![lab4-7-1](lab4-7-11.png)
 ![lab4-7-2](lab4-7-2.png)
 
+# Step 8
+Key pressed: <*up*><*up*><*up*><*up*><*Enter*><*up*><*up*><*up*><*up*><*Enter*>
+>Using <*up*> four times to get the "javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java" because this command is in the fourth search history. <*Enter*> to compile all of the java files. Then use <*up*> four times again to get "java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests" because this command is also in the fourth search history. Run the "ListExmaplesTests" to check the J-unit test.
