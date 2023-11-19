@@ -16,6 +16,6 @@ Key pressed: cd<*space*>lab4<*Enter*><*control*>p<*Enter*><*control*>p<*space*>L
 # Step 7
 Key pressed: vim<*space*><*shift*>list<*shift*>examples.java<*Enter*>/index1<*Enter*>nnnnnnnnnlllllxi2<ESC><shift>;wq
 >Using vim to access "ListExmaples.java". Then in vim use /*keyword* to search for "index1". Use n to find the last "index1" and access "1" in "index1" by entering the keyboard word "l". Then use "x" to delete the "1" and press "i" to get into insert mode at the position after "x" in "index". Add 2 to the end of "index" and press "ESC" in the keyboard to get back to the normal mode. Finally enter :wq to save the changes.
-![lab4-7-1](lab4-7-1(2).png)
+![lab4-7-1](lab4-7-1 (2).png)
 ![lab4-7-2](lab4-7-2.png)
 
