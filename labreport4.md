@@ -30,4 +30,5 @@ Key pressed:
 3. git<*space*>commit<*Enter*>changed<*ESC*><*shift*>;wq
 4. git<*space*>push
 >Using "git add" to add the "ListExamples.java" to github. Then use "git commit" to commit the changes in git hub with the message "changed". Finally use "git push" to push it into the git hub to make final changes
-
+![step91](lab4-9-1.png)
+>![step92](lab4-9-2.png)
