@@ -26,8 +26,8 @@ Key pressed: <*up*><*up*><*up*><*up*><*Enter*><*up*><*up*><*up*><*up*><*Enter*>
 
 # Step 9
 Key pressed: 
-1. git<*space*>add<*space*>
-2. <*shift*>list<*shift*>examples.java<*Enter*>
-3. git<*space*>status<*Enter*>
-4. git<*space*>commit<*Enter*>changed<*ESC*><*shift*>;wq
-5. git<*space*>push
+1. git<*space*>add<*space*><*shift*>list<*shift*>examples.java<*Enter*>
+3. git<*space*>commit<*Enter*>changed<*ESC*><*shift*>;wq
+4. git<*space*>push
+>Using "git add" to add the "ListExamples.java" to github. Then use "git commit" to commit the changes in git hub with the message "changed". Finally use "git push" to push it into the git hub to make final changes
+
