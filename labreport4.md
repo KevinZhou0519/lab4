@@ -12,3 +12,7 @@ Key pressed: git<*space*>clone<*space*>git<*shift*>2github.com<*shift*>;KevinZho
 Key pressed: cd<*space*>lab4<*Enter*><*control*>p<*Enter*><*control*>p<*space*>ListExamplesTests<*Enter*>
 >using cd to get into lab4 dictionary and copy the J-unit javac and java test code from Week 4 course website " javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java","java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore". Finally run enter the ListExmaplesTests to test this file specifically
 ![step6](lab4-6.png)
+
+# Step 7
+Key pressed: vim<*space*><*shift*>list<*shift*>examples.java<*Enter*>/index1<*Enter*>nnnnnnnllllli2<ESC>x:wq
+
